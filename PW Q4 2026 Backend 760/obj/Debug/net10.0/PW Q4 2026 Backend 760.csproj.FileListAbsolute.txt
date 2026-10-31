@@ -1,0 +1,33 @@
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\appsettings.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\PW Q4 2026 Backend 760.staticwebassets.endpoints.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\PW Q4 2026 Backend 760.exe
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\PW Q4 2026 Backend 760.deps.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\PW Q4 2026 Backend 760.runtimeconfig.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\PW Q4 2026 Backend 760.dll
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\PW Q4 2026 Backend 760.pdb
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.csproj.AssemblyReference.cache
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.AssemblyInfoInputs.cache
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.AssemblyInfo.cs
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.csproj.CoreCompileInputs.cache
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\scopedcss\bundle\PW Q4 2026 Backend 760.styles.css
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 20.3C355279.Up2Date
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.dll
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\refint\PW Q4 2026 Backend 760.dll
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.pdb
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\PW Q4 2026 Backend 760.genruntimeconfig.cache
+C:\Users\ample\RiderProjects\PW Q4 2026 Backend 760\PW Q4 2026 Backend 760\obj\Debug\net10.0\ref\PW Q4 2026 Backend 760.dll

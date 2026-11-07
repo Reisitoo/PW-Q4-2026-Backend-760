@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PW Q4 2026 Backend 760")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c28388aa47bdf13d6dc0536e002c6a1f3348718")]
 [assembly: System.Reflection.AssemblyProductAttribute("PW Q4 2026 Backend 760")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PW Q4 2026 Backend 760")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
